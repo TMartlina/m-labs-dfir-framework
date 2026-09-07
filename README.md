@@ -70,3 +70,12 @@ When an alert is triggered, `triage.py` executes without third-party dependencie
 - **Telemetry Integrity:** Deploy tamper-resistant audit log shipping (`auditd` / central SIEM forwarding).
 - **Identity Hardening:** Enforce MFA across all cloud administration and SSH gateways.
 - **Next-Gen Evolution:** Integration of resident lightweight agents and automated anomaly detection using machine learning models.
+
+---
+
+## 7. License & Intellectual Property
+
+Copyright (c) 2026 Mariana Marrufo Estrada. All Rights Reserved.
+
+- **Source Code & Scripts:** Proprietary. Educational and recruitment inspection permitted. Commercial use and redistribution are strictly prohibited without written consent.
+- **Documentation & Architecture:** Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
